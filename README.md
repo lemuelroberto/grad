@@ -3,8 +3,8 @@
 ## Descrição
 
   Este repositório contém diversos projetos de programação desenvolvidos por
-mim (Lemuel), em grupo ou solo, durante a graduação em Ciências de Computação
-no Instituto de Ciências Matemáticas da Universidade de São Paulo.
+mim (Lemuel), em grupo ou solo, durante a graduação em Ciências de Computação na
+Universidade de São Paulo (Instituto de Ciências Matemáticas e de Computação).
 
   É uma pena não ter alguns dos trabalhos que fizeram história, como FlyChat,
 o primeiro projeto de programação desenvolvido na faculdade. :cry:
@@ -18,7 +18,7 @@ software à sistemas de informação e gerenciamento de projetos.
 
   Agradecimentos especiais aos colegas Erick Becker e Marcelo Petrucelli que
 compartilharam, principalmente nos primeiros anos, várias noites de trabalho
-com muita bolacha Trakinas, café, risadas, desesperos e muito aprendizado.
+com muita bolacha Trakinas, café, risadas, desesperos e aprendizado.
 
 ## Projetos
 
@@ -30,8 +30,8 @@ Matrizes esparsas                       | Algoritmos e estruturas de dados I
 Alguns terão alguns erros, até mesmo de português, muitos não respeitam a
 regra de ouro dos 80 caracteres por linha. :broken_heart:
 
-**OBS2:** se encontrar algum erro, envie a descrição para replicar ou correção
-por gentileza :pray:
+**OBS2:** se encontrar algum erro, envie a descrição para reproduzí-lo ou a
+correção por gentileza :pray:
 
 Para maiores informações sobre as ementas das disciplinas, acesse a [Grade
 Curricular](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=
