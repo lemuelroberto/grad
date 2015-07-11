@@ -1,0 +1,41 @@
+p
+program my_prog ;
+
+  procedure  (p1 : integer) ;
+  begin
+  end;
+
+  procedure my_procedure p1 : integer) ;
+  begin
+  end;
+
+  procedure my_procedure (p1, p2 : integer;) ;
+  begin
+  end;
+
+  const my_integer_const = 10;
+  const my_real_const 10.0;
+
+  const  = 10;
+  const my_real_const = ;
+
+  var my_integer_var : integer;
+  #
+
+  var my_integer_var1 my_integer_var2, my_integer_var3: integer;
+  var my_real_var1, my_real_var2, my_integer_var3: real;
+
+
+
+  read(a, b);
+
+  if a <> b then
+  begin
+    my_procedure;
+    my_procedure();
+    my_procedure(a);
+  end;
+
+  read(, );
+
+end.

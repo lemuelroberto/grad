@@ -1,0 +1,14 @@
+program exemplo3;
+    var x, y: integer;
+begin
+    read(x);
+    y:=x*x;
+    if (x < y) then
+        while (x < y) do
+        begin
+            y=y-2;
+            write(y);
+        end;
+    else write(x);
+        write(x*y);
+end.

@@ -1,0 +1,13 @@
+program my_prog ;
+
+  const my_integer_const = 10;
+  const my_real_const = 10.0;
+
+  var my_integer_var : integer;
+  var my_real_var : real;
+
+  var my_integer_var1, my_integer_var2, my_integer_var3: integer;
+  var my_real_var1, my_real_var2, my_integer_var3: real;
+
+begin
+end.

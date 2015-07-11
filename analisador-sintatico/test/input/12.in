@@ -1,0 +1,5 @@
+program my_prog ;
+    var my_array: array;
+    { invalid variable type }
+begin
+end.

@@ -1,0 +1,15 @@
+program my_prog ;
+
+  procedure my_procedure (p1 : integer) ;
+  begin
+  end;
+
+begin
+
+  read(a, b);
+
+  if a <> b then
+  begin
+    my_procedure(a);
+  end;
+end.

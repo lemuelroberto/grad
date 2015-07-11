@@ -1,0 +1,12 @@
+{ comentario inicial }
+
+program test_case ;
+    procedure my_procedure (p1 : integer) ;
+    begin;
+        writeln(p1);
+    end;
+begin
+    writeln("Digite um numero:");
+    read(a);
+    my_procedure(a);
+end.

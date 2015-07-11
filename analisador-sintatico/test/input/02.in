@@ -1,0 +1,31 @@
+@
+#
+$
+!
+program Lesson1_Program3;
+var
+    Num1, Num2, Sum : integer;
+    Num3 : real;
+
+begin
+ $
+ Num3 = 3.8;
+ write();
+ readln(Num1);
+ writeln();
+ readln(Num2);
+ Sum := Num1 + 12;
+ writeln(Sum);
+ readln;
+
+ Num3 = 3 + Num3;
+
+ 2C
+ 4#
+ 1.r
+ r.4
+ 1.
+ 1.@
+ 123@12
+ 1.3$23
+end.
