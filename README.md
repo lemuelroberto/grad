@@ -24,6 +24,7 @@ com muita bolacha Trakinas, café, risadas, desesperos e aprendizado.
 
 Tema                                    | Disciplina
 :-------------------------------------- | :----------------------------------
+Algoritmo de Dijkstra                   | Algoritmos e estruturas de dados II
 Árvore Vermelho-Preta                   | Algoritmos e estruturas de dados I
 Matrizes esparsas                       | Algoritmos e estruturas de dados I
 
