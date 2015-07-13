@@ -22,12 +22,13 @@ com muita bolacha Trakinas, café, risadas, desesperos e aprendizado.
 
 ## Projetos
 
-Tema                                 | Disciplina
-:----------------------------------- | :----------------------------------------
-Algoritmo de Dijkstra                | Algoritmos e estruturas de dados II
-Analisador Sintático                 | Linguagens de programação e compiladores
-Árvore Vermelho-Preta                | Algoritmos e estruturas de dados I
-Matrizes esparsas                    | Algoritmos e estruturas de dados I
+Tema                              | Disciplina
+:-------------------------------- | :-------------------------------------------
+Algoritmo de Dijkstra             | Algoritmos e estruturas de dados II
+Analisador Sintático              | Linguagens de programação e compiladores
+Árvore Vermelho-Preta             | Algoritmos e estruturas de dados I
+Filtros em imagens                | Processamento de Imagens
+Matrizes esparsas                 | Algoritmos e estruturas de dados I
 
 **OBS1:** nem todos os projetos possuem descrição, documentação ou Makefile.
 Alguns terão alguns erros, até mesmo de português, muitos não respeitam a
